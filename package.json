@@ -1,0 +1,22 @@
+{
+  "name": "project-typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server",
+    "watch": "tsc --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.5.4"
+  },
+  "dependencies": {
+    "axios": "^1.7.2",
+    "browser-sync": "^3.0.2",
+    "lite-server": "^2.6.1",
+    "localtunnel": "^2.0.2"
+  },
+  "description": ""
+}
